@@ -1,0 +1,55 @@
+<!doctype html>
+
+<html lang="en">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<head>
+  <link href="css/styleok.css" rel="stylesheet" type="text/css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+
+  <style>
+
+body {
+background: #494949;
+font-family: Monospace;
+}
+
+.centered-image {
+display: block;
+margin:auto;
+width:60%;
+}
+
+
+
+
+  </style>
+</head>
+
+
+
+
+
+
+
+
+<body>
+
+<script src="js/script.js"></script>
+
+<img class="centered-image" src="http://i.imgur.com/VgiaosX.png">
+
+<p> Welcome to the official website of Kronos Broadcasting.</p>
+
+</body>
+
+</html>
+
+
+
+
+
+
+
+
